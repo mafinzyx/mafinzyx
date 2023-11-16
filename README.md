@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mafinzyx
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, javascript, html/css
+- 🌱 I’m currently learning python, javascript, html/css, c/c++/c#, java
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me danilzerzdev@gmail.com
 
