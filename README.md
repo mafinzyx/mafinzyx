@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @mafinzyx
+<div align="center">
+  <h1 align="center">👋 Hi, I’m Danylo Zherzdiev </h1>
+</div>
+
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python, javascript, html/css, c/c++/c#, java
 - 💞️ I’m looking to collaborate on github
