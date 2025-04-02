@@ -9,19 +9,55 @@
 
 I am an enthusiastic programmer with a deep interest in development and emerging technologies. My goal is to create effective and innovative solutions that enhance user experiences. Currently, I am actively learning and mastering various programming languages and technologies, including:
 <div>
-  
-![Python](https://img.shields.io/badge/Projects-Python-306998?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/Projects-JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/Projects-HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/Projects-CSS-1572B6?style=flat&logo=css3)
-![C++](https://img.shields.io/badge/Projects-C%2FC%2B%2B-00599C?style=flat&logo=c)
-![Java](https://img.shields.io/badge/Projects-Java-007396?style=flat&logo=java)
-![Assembly](https://img.shields.io/badge/Projects-Assembly-6E4C3A?style=flat&logo=assembly)
-![Ada](https://img.shields.io/badge/Projects-Ada-4E8B8B?style=flat&logo=ada)
-![Swift](https://img.shields.io/badge/Projects-Swift-F05138?style=flat&logo=swift)
-![MongoDB](https://img.shields.io/badge/Projects-MongoDB-47A248?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/Projects-SQL-003B57?style=flat&logo=sqlite)
-![PHP](https://img.shields.io/badge/Projects-PHP-777BB4?style=flat&logo=php)
+
+# 🚀 My Tech Stack
+
+## 🖥️ Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ada-4E8B8B?style=for-the-badge&logo=ada" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C3A?style=for-the-badge&logo=assembly" />
+</p>
+
+## 🎨 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+## 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+## ⚙️ Backend & Server Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
+</p>
+
+## 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity" />
+</p>
+
+
+
+
 
 </div>
 
